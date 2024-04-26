@@ -6,7 +6,7 @@ Front-End Web Developer
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
-Hello! Im, Dao Xuan Dung learning to Da Nang Architechture University (DAU). My birthday : 01-03-2002. Im from Quang Tri Quang tri province and im working to Da Nang City.
+Hello! My fullname: Dao Xuan Dung, Im learning to Da Nang Architechture University (DAU) from Da Nang City, Viet Nam. My birthday : 01-03-2002. Im from Quang tri province and im working to Da Nang City.
 
 * 🌍  I'm based in Da Nang, Viet Nam
 * 🖥️  See my portfolio at [Facebook](http://facebook.com/nghe.b1)
