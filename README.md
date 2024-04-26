@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Xuan Dung
 =================================================================================================================================
+
+Front-End Web Developer
+-----------------------
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
-Front-End Web Developer
------------------------
-
 Hello! Im, Dao Xuan Dung learning to Da Nang Architechture University (DAU). My birthday : 01-03-2002. Im from Quang Tri Quang tri province and im working to Da Nang City.
 
 * 🌍  I'm based in Da Nang, Viet Nam
